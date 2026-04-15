@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marcos!
 
-🎓 Estudante de TI no Senac SP - Salto
+🎓 Estudante de TI no Senac SP
 🎮 Apaixonado por jogos e animes
 🚀 Futuro desenvolvedor de jogos
 
@@ -8,7 +8,7 @@
 
 ## 💻 Sobre mim
 
-Atualmente estou estudando Tecnologia da Informação no Senac SP em Salto. Tenho grande interesse na área de desenvolvimento e sonho em seguir carreira na criação de jogos, unindo criatividade e tecnologia.
+Atualmente estou estudando Tecnologia da Informação no Senac SP. Tenho grande interesse na área de desenvolvimento e sonho em seguir carreira na criação de jogos, unindo criatividade e tecnologia.
 
 ---
 
