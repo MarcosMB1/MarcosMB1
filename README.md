@@ -23,7 +23,7 @@ Atualmente estou estudando Tecnologia da Informação no Senac SP. Tenho grande 
 ## 🛠️ Tecnologias em aprendizado
 
 * Lógica de Programação
-* HTML & CSS
+* HTML, C++ e C#
 * JavaScript (iniciando)
 * Conceitos de desenvolvimento de jogos
 
