@@ -31,7 +31,7 @@ Atualmente estou estudando Tecnologia da Informação no Senac SP em Salto. Tenh
 
 ## 🎮 Interesses
 
-* Jogos (principalmente multiplayer e de aventura)
+* Jogos (RPGS, Ação, Aventura,)
 * Animes
 * Tecnologia e inovação
 
