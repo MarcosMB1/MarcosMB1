@@ -40,4 +40,3 @@ Atualmente estou estudando Tecnologia da Informação no Senac SP em Salto. Tenh
 
 
 ![demo](https://giffiles.alphacoders.com/208/208044.gif)
-<img src= https://64.media.tumblr.com/be3fc250e566001a4576ead2e705c1fd/tumblr_pkallgCCmQ1sjg4b1_640.gif alt="GIF" min-width="400px" max-width="400px" width="400px" align="right">
