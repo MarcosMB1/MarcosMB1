@@ -32,7 +32,6 @@ Atualmente estou estudando Tecnologia da Informação no Senac SP. Tenho grande 
 - C#
 - JavaScript (iniciando)
 - Kotlin
-- Conceitos de desenvolvimento de jogos
 
 ---
 
